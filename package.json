@@ -42,5 +42,15 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^4.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorbaBruno/ignite-challenge-02.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/BorbaBruno/ignite-challenge-02/issues"
+  },
+  "homepage": "https://github.com/BorbaBruno/ignite-challenge-02#readme",
+  "description": ""
 }
